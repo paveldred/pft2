@@ -10,6 +10,7 @@ public class MyFirstProgram {
     public static void hello() {
         System.out.println("Hello, world!");
     }
+
     public static double convertCelsiumToFahrenheit(int celsium) {
         double TF = celsium * 9.0 / 5.0 + 32;//напишите тут ваш код
         return TF;
